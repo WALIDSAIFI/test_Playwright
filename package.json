@@ -1,0 +1,22 @@
+{
+  "name": "test_playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WALIDSAIFI/test_Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WALIDSAIFI/test_Playwright/issues"
+  },
+  "homepage": "https://github.com/WALIDSAIFI/test_Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^24.3.1"
+  }
+}
