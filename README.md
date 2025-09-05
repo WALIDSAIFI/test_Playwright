@@ -7,7 +7,4 @@ L’objectif est de vérifier différents cas de connexion sur le site [SauceDem
 
 ## 🚀 Installation
 
-1. **Cloner le repo**
-   ```bash
-   git clone https://github.com/TON-UTILISATEUR/test-playwright-saucedemo.git
-   cd test-playwright-saucedemo
+
